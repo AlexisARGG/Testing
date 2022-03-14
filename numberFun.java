@@ -9,8 +9,8 @@ public class numberFun {
         num1 =input.nextInt();
         System.out.print("Num 2: ");
         num2 =input.nextInt();
-        int sum = num1 + num2;
-        System.out.println("Sum: " + sum);
+        int result = num1 - num2;
+        System.out.println("Result: " + result);
 
 
     }
